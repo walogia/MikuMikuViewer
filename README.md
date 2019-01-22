@@ -1,7 +1,7 @@
 # MikuMikuViewer
 MMD用图片查看器
 ![](https://github.com/walogia/MikuMikuViewer/blob/master/%E9%A2%84%E8%A7%88.png)
-
+![预览]({{site.baseurl}}/https://bowlroll.net/file_thumbnail/c/4/a/c4adbcceaea44cb42e985601e198ee5482a6309d173991big.png)
 ## 使用方法：
 1.拖拽可打开png,jpg,bmp,gif,sph,spa,tga,dss,psd格式图片文件
 
